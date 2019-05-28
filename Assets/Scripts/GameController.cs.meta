@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 1307929fe9a2b3f4c9fded83e459fd7b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - tex: {instanceID: 0}
+  - photoShooter: {fileID: 1141418019583542, guid: d606096870a73e949babfde3aa9a03b8,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
